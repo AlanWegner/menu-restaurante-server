@@ -4,7 +4,7 @@
   "description": "Pagina de menu restaurante, donde se podrá ver una cartilla de menus del mismo. Contará además con un login, para registrar usuarios clientes y administradores. Los usuarios clientes podran ver menus y realizar pedidos. Los usuarios administradores podran administrar a los usuarios clientes y crear los menus.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Alan Joel Wegner",
   "license": "ISC",
